@@ -14,7 +14,7 @@ const pkgdef :Spk.PackageDefinition = (
   # your keyring. All updates must be signed with the same key.
 
   manifest = (
-    appTitle = (defaultText = "Firefly III"),
+    appTitle = (defaultText = "Student Wallet"),
     appVersion = 1,
     appMarketingVersion = (defaultText = "3.4.6"),
     actions = [
